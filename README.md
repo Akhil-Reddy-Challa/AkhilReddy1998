@@ -1,4 +1,4 @@
-### Hello :v:, Akhil here
+### Aloha :v:, Akhil here
 
 #### Interested in Web & Software Applications development
 
