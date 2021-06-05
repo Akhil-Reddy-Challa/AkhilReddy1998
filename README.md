@@ -2,7 +2,7 @@
 
 #### Interested in Web & Software Applications development
 
-- :man_student: I’m a Grad student in the University of Cincinnati.
+- :man_student: I’m a Grad student at the University of Cincinnati.
 - 💥 I’m currently learning ReactJS and the art of deploying applications on <img alt="Angular" src="https://img.shields.io/badge/AWS-232F3E?logo=Amazon-AWS&logoColor=white&style=ShieldStyle" />
 - 💬 Reach out to me on <a href="https://www.linkedin.com/in/akhilreddychalla/">LinkedIn</a>
 
